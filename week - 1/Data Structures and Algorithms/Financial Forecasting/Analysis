@@ -1,0 +1,13 @@
+Recursive Relationship:  T(n) = T(n-1) + O(1)
+
+Time Complexity of the Algorithm:  O(n)
+
+Space Complexity: O(n)
+
+
+
+Optimization:
+Problem: For very large values of n, recursion can consume more memory and cause stack overflow.
+Solution: Iterative approach
+
+

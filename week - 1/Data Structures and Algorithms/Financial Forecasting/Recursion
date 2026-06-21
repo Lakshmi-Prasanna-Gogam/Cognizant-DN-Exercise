@@ -1,0 +1,9 @@
+Recursion:
+A technique where a function calls itself again and again.
+It has two:
+    1. Base condition - Recursion termination condition.
+    2. Recursive condition - Recursion continuation condition 
+
+
+How it can simplify problems?
+It breaks the problem into simple sub problem.

@@ -1,0 +1,32 @@
+Linear Search vs Binary Search
+
+Linear Search:
+Best Case: Element found at index 0.
+            Time Complexity: O(1)
+
+Average Case: Element found at any index between 0 to n-1.
+            Time Complexity: O(n)
+
+Worst Case: Element found at index n-1 or not found.
+            Time Complexity: O(n)
+
+
+Binary Search:
+Best Case: Element found at mid where mid = (low + high)/2.
+            Time Complexity: O(1)
+
+Average Case: Element found after some splits.
+            Time Complexity: O(log n)
+
+Worst Case: Element found at extreme ends or not found.
+            Time Complexity: O(log n)
+
+
+
+
+Which Algorithm is More Suitable?
+Binary Search is more suitable for an e-commerce platform because:
+
+    -->  Binary Search is much faster for large number of products.
+    -->  Time Complexity of Binary Search is O(log n). It reduces search time significantly.
+    -->  Best in real-world applications where millions of products exist.

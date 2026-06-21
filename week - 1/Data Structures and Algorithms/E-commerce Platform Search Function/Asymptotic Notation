@@ -1,0 +1,15 @@
+
+Big O Notation:
+Big O Notation is used to describe the performance of the algorithm as the input size n increases.
+
+Example:
+        O(1)      -->  Constant
+        O(log n)  -->  Logarithmic
+        O(n)      -->  Linear
+
+
+Best Case: The element is found immediately probably in first search/comparision.
+
+Average Case: The element is found somewhere in the middle of the array.
+
+Worst Case: The element is found at the end or not found at all.
